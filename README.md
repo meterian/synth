@@ -14,6 +14,13 @@
       <img src="https://img.shields.io/github/all-contributors/getsynth/synth" alt="Synth open source contributors"/>
 </p>
 
+<!-- Meterian badges -->
+<p align=center>
+  <a href="https://www.meterian.io/projects/?pid=51934974-62a9-49d2-bcaf-44bca8c5e16a"><img alt="Security status" src="https://www.meterian.io/badge/pb/51934974-62a9-49d2-bcaf-44bca8c5e16a/security"/>
+  <a href="https://www.meterian.io/projects/?pid=51934974-62a9-49d2-bcaf-44bca8c5e16a"><img alt="Stability status" src="https://www.meterian.io/badge/pb/51934974-62a9-49d2-bcaf-44bca8c5e16a/stability"/>
+  <a href="https://www.meterian.io/projects/?pid=51934974-62a9-49d2-bcaf-44bca8c5e16a"><img alt="Licensing status" src="https://www.meterian.io/badge/pb/51934974-62a9-49d2-bcaf-44bca8c5e16a/licensing"/>
+</p>
+
 ------
 
 Synth is a tool for generating realistic data using a declarative data model. Synth is database agnostic and can scale to millions of rows of data.
